@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+
 <html lang='en'>
     <head>
-        <title>PWSpace | Signup</title>
+        <title>PWSpace | Login</title>
         <meta charset="UTF-8" />
         <link rel="stylesheet" href="css/normalize.css" />
         <link rel="stylesheet" href="css/styles.css" />
@@ -74,8 +74,6 @@
             <input type="text" aria-label="user" required />
             <label id="pass">Password</label>
             <input type="password" aria-label="pass" required />
-            <label id="confirm">Confirm Password</label>
-            <input type="password" aria-label="confirm" required />
             <button type="submit">Submit</button>
         </form>
 
