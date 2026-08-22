@@ -221,7 +221,8 @@ Profile Picture Container
 }
 
 .profile-picture-container p {
-  margin: 0;
+  margin: 10px;
+  padding:20px;
 }
 
 .profile-pic {
@@ -229,7 +230,7 @@ Profile Picture Container
   margin-top: 10px;
   margin-bottom: 10px;
   max-width: 20vw;
-  max-height:30vh;
+  max-height:20vh;
 }
 
 .personal-msg {
